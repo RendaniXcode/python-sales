@@ -1,0 +1,6 @@
+SalesID,CustomerID,ProductID,ProductName,Quantity,SaleDate,Amount,PaymentMethod,Region
+S021,C020,P020,Gadget T,3,2024-08-15,8.99,PayPal,Europe
+S022,C021,P021,Widget U,4,2024-08-14,18.99,Credit Card,North America
+S023,C022,P022,Accessory V,5,2024-08-13,28.99,Bank Transfer,South America
+S024,C023,P023,Tool W,2,2024-08-12,38.99,Credit Card,Asia
+S025,C024,P024,Device X,1,2024-08-11,48.99,PayPal,Australia
